@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "Menu.dosarate",
+    "type": "java.lang.String",
+    "description": "A description for 'Menu.dosarate'"
+  },
+  {
+    "name": "Menu.Idlyrate",
+    "type": "java.lang.String",
+    "description": "A description for 'Menu.Idlyrate'"
+  },
+  {
+    "name": "Customer.Name",
+    "type": "java.lang.String",
+    "description": "A description for 'Customer.Name'"
+  },
+  {
+    "name": "Hotel.ContactNo",
+    "type": "java.lang.String",
+    "description": "A description for 'Hotel.ContactNo'"
+  },
+  {
+    "name": "Hotel.addrs",
+    "type": "java.lang.String",
+    "description": "A description for 'Hotel.addrs'"
+  },
+  {
+    "name": "Hotel.name",
+    "type": "java.lang.String",
+    "description": "A description for 'Hotel.name'"
+  },
+  {
+    "name": "Menu.Poharate",
+    "type": "java.lang.String",
+    "description": "A description for 'Menu.Poharate'"
+  },
+  {
+    "name": "Menu.Upmarate",
+    "type": "java.lang.String",
+    "description": "A description for 'Menu.Upmarate'"
+  }
+]}
